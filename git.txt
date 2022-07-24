@@ -1,3 +1,12 @@
 git clone -копіюємо віддалений репозиторій
 U - untracked
-git add *
+git add * - відмітити файли що ми змодифікували
+git commit -m "First commit"
+git push
+ <!-- ./ означає що дана папка знаходиться на тому самому рівні вкладеності що й index.html -->
+
+
+
+гілка master -сама головна гілка
+гілка development - розробка продукту
+від гілки development відходить твоя гілка(your branch)
