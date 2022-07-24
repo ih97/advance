@@ -8,7 +8,7 @@ git push
 git - b lesson1 створення гілки
 git checkout - b lesson1 створення гілки і перехід на гілку- при тому основна гілка не міняється
  git push --set-upstream origin lesson1 при стаоренні нової гілки треба використати цю команду замість git push
-
+git checkout main - зливаємо між собою гілки
 
 гілка master -сама головна гілка
 гілка development - розробка продукту
