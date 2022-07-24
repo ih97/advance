@@ -1,0 +1,3 @@
+git clone -копіюємо віддалений репозиторій
+U - untracked
+git add *
